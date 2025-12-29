@@ -66,7 +66,7 @@ No PowerShell commands required.
 Install these packages to get richer hardware and runtime details:
 
 ```
-pip install psutil wmi
+pip install psutil WMI
 ```
 
 ### Optional (AI / CUDA checks)
